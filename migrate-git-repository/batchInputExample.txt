@@ -1,2 +1,2 @@
-https://user@bitbucket.org/workspace/repository.git https://github.com/user/discord-general-wrapper.git
-https://user@bitbucket.org/workspace/repository2.git https://github.com/user/discord-general-wrapper2.git
+https://user@bitbucket.org/workspace/repository.git https://github.com/user/repository.git
+https://user@bitbucket.org/workspace/repository2.git https://github.com/user/repository2.git
