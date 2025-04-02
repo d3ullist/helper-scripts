@@ -6,6 +6,6 @@ The script assumes you are already in a authenticated context for both the Sourc
 
 ## Usage
 
-`.\migrate.ps1 https://user@bitbucket.org/workspace/repository.git https://github.com/user/discord-general-wrapper.git`
+`.\migrate.ps1 https://user@bitbucket.org/workspace/repository.git https://github.com/user/repository.git`
 
 `.\batchMigrate.ps1 .\batchInputExample.txt`
